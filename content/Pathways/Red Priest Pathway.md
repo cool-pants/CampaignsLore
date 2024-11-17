@@ -1,0 +1,16 @@
+# Sequence 9: Hunter
+- **Knowledge (Survival, Traps)**: Upon drinking the _**Hunter**_ potion, they will receive an influx of knowledge on how to survive and hunt targets in the wilderness, as well as how to place traps.
+    - As for the survival knowledge itself, it is about wild plants and animal organs, potential hemostatic medicine when injured, and poisons to smear their weapons with.
+    - When it comes to trap knowledge, they can accurately locate certain spots in their environment, enabling them to efficiently set up traps in their surroundings.
+        - _**Hunters**_ gain a level of expertise with the use of explosives, allowing them to act as a demolition expert, or rig intricate explosive traps.
+        - This ability allows _**Hunters**_ to find natural traps, such as unstable cliffs or quicksand, to trap an opponent without setting one up first.
+- **Physical Enhancement**: They possess inhuman physical qualities, giving them increased strength, speed, reaction, body control, and natural healing ability.
+    - They possess the strength of a bear and the agility of a cat, being slightly equivalent to the combination of the two creatures.
+    - Their punches are strong enough to easily cause the air to release cracking sounds and gain a few centimeters in height.
+- **Heightened Senses**: a _**Hunter's**_ overall auditory, olfactory, and visual senses are enhanced exponentially, this gives them strong tracking skills.
+    - This allows them to accurately discern different scents; "see" invisible footprints and minute details; and hear hushed sounds.
+        - Their hearing is strong enough to determine the weight of a person from just their footsteps.
+    - Their supernatural sensory abilities would only appear when they focus, taking the form of a weaker version that doesn't disturb them in their everyday lives.
+- **Spirituality**: Their **Spirituality** is slightly enhanced as a **Beyonder**, but they are among the weakest in this field, far inferior to other **Sequence 9s** who excel at it.
+    - **Danger Intuition**: They can passively sense ill intentions and danger. But are not able to pinpoint the person.
+	    - Will be able to dodge arrows or traps, but not schemes or complex manoeuvres

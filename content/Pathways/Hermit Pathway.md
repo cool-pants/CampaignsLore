@@ -1,0 +1,12 @@
+# Sequence 9: Mystery Pryer
+- **Eyes of Mystery Prying**: Their eyes are special and allow them to see things that normally aren't visible.
+    - _**Mystery Pryers**_ have to be careful and show proper restraint with their powers as a **Beyonder** as they often see things they shouldn't see, leading to them being most exposed to **Corruption**.
+    - This ability is instinctive and cannot be deactivated. _**Mystery Pryers**_ can prevent it from affecting their daily lives through **Seals** or using special **Mystical Items** of sufficient power
+- **Knowledge (Knowledge Pursuit):** _**Mystery Pryers**_ will be occasionally be chased by _knowledge_ bought to life, imbuing them with _knowledge_ in random intervals.
+    - This can either lead to them losing control or gaining a benefit, though often it is the former due to its lack of predictability and interference from the [[Hidden Sage]].
+- **Spirituality:** Their **Spirituality** will get enhanced upon drinking this potion.
+    - **Spirit Vision**: _**Mystery Pryers**_ are able to utilize their **Spirit Vision** to deduce a person's health and emotions, as well as if an object or person contains some sort of magical aura.
+    - **Ritualistic Magic & Divination Arts:** They have a comprehensive but rudimentary understanding and grasp of **Divination Arts**, as well as know a fair number of **Ritualistic Magic**.
+        - Their use of **Ritualistic Magic** allows them to summon Spirit World  creatures and form **Contracts** with them which enables them to eventually obtain messengers and helpers with unique powers as they progress forward in their studies.
+            - As they progress through the **Sequences**, they will be able to form **Contracts** with more and more powerful and unique **Spirit World** creatures.
+        - They can use many **Divination** methods, including astrology, cartomancy, spiritual pendulums, spiritual numbers, and scrying in order to gain revelations from the **Spirit World**, however, they are less effective in this matter than **Seers**.
