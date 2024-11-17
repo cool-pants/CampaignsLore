@@ -9,7 +9,8 @@ A series of murder and kidnappings all over the kingdom have taken place. All sh
 With some of the victims coming from the slums of Tingen, to the Upper Echelons of Backlund, a call for help is issued to local investigators of the "Beyonder" kind.
 
 ## Setting
-Medieval Steampunk America. Still ruled by a monarchy, the typical societal structure. The nobles enjoy while the poor grief.
+![[Pasted image 20241117194546.png]]
+Medieval Victorian America. Still ruled by a monarchy, the typical societal structure. The nobles enjoy while the poor grief.
 
 Near the outer reaches of the empire, slums are rampant, with people turning to religion for blessings and hope. A strong sense of community appears, for the only one that the poor and downtrodden have is each other.
 

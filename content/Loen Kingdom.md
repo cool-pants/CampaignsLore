@@ -1,3 +1,6 @@
+---
+draft: "false"
+---
 Loen is One of the four major nations located on the East of the Northern Continent. It was founded by the Augustus Family in the Fourth Epoch, after the Trunsoest Empire was destroyed.
 
 The Loen Kingdom's industrial and economic strength is very strong.
