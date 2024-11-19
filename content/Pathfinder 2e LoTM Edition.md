@@ -62,7 +62,9 @@ The themes of corruption play a huge role in the universe. With too much informa
 Ex: _Found a corrupt artifact whispering sweet things into your ear?_ Throw it at a beyonder of the [[Hanged Man Pathway]], drive them crazy with the ramblings.
 
 Reveal a horrifying truth to the enemy driving them to madness. (Might have little effect on Pathways which rely and boost observatory skills, intellect, etc.)
+
 **You**: Reveal a conspiracy in which the Enemy's beloved wife and son are plotting to kill him and sacrifice him to the very god he prays to. And throw some supporting evidence (The more convincing the argument, the higher the chance it is to drive him mad. The higher the shock factor, the higher the chance to corrupt.)
+
 **Enemy**: Whu-* Turns into a monster *
 
 Leave a book of forbidden knowledge to a beyonder of the [[Hermit Pathway]], and watch them turn mad with the rumblings from [[The Hidden Sage]].
