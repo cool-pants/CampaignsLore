@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 ---
 # Why Pathfinder 2e?
 Pathfinder 2e has the best way to essentially scale combat and how to determine the effectiveness of an action against a difficult opponent.
