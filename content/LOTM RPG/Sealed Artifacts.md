@@ -51,4 +51,4 @@ The more you know about 0-08, the more it knows about you and everyone around yo
 
 The more illogical an action is, the stronger the backlash to the user. It also has the unfortunate side-effect of trying to write its owner to death. The range of 0-08 is estimated to be around a city the size of Backlund.
 
-0-08 always will try to kill its owner, but it doesn't want to be sealed again. If the [[Church of the Evernight Goddess]] started an operation to get 0-08 back, it would write a story to make sure it would not be sealed again. If you know about 0-08, it will also know about you. The more you know about it, the higher the chance you will become a character in its stories.
+0-08 always will try to kill its owner, but it doesn't want to be sealed again. If the [[Church Of The Evernight Goddess]] started an operation to get 0-08 back, it would write a story to make sure it would not be sealed again. If you know about 0-08, it will also know about you. The more you know about it, the higher the chance you will become a character in its stories.
